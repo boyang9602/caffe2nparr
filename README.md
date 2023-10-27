@@ -1,5 +1,5 @@
 This is a simple code snippet to convert the `caffemodel` parameters to numpy arrays. 
-It needs an environment with python2.7 and caffe. I would suggest to use the [caffe docker](!https://github.com/BVLC/caffe/tree/master/docker). 
+It needs an environment with python2.7 and caffe. I would suggest to use the [caffe docker](https://github.com/BVLC/caffe/tree/master/docker). 
 
 First, create a folder for saving the weights.  
 Then run the command below:  
