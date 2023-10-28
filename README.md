@@ -22,3 +22,4 @@ with open('filename.bin', 'rb') as f:
     data = contant['data']
     weights = data.reshape(shape)
 ```
+[load_weights.py](./load_weights.py) have a function to load and reshape the dumped weights (`process.py`), and functions to load weights to the corresponding PyTorch layers for some common layers (Conv2d, BatchNorm). 
